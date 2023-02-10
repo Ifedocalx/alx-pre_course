@@ -1,0 +1,14 @@
+
+
+
+#!/bin/bash
+
+
+echo alx > 'ALX'
+
+
+
+
+echo Alx> 'ALX'
+
+

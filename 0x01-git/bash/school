@@ -1,0 +1,14 @@
+o school > School
+
+echo school > School
+
+alx #!/bin/bash
+
+echo Alx > ALX
+
+wq
+
+vi
+
+emacs
+
